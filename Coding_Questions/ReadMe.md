@@ -12,3 +12,5 @@ These functions do not require any built in libraries like sklearn.
 **NumPy_Convolution:** A 2D convolution function written completely in NumPy with a functional equivalent in PyTorch. This function can be easily adapted for 3D tasks as well. 
 
 **Perceptron:** A perceptron implementation for binary classification. 
+
+**SVM:** A support vector machine implementation for binary classification. 
