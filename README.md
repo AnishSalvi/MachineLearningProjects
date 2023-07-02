@@ -6,3 +6,6 @@ This library contains various scripts useful for running machine learning projec
 
 ## Self-Supervised Medical Image Classification of Radiographs via Convolutional Neural Network Inpainting and Class Balanced Loss Functions
 **Self_Supervised_Learning:** An example of self-supervised learning in action. 
+
+## Machine Learning & Image Processing Coding Interview Prompts
+**Coding_Questions:** A folder of various quick and simple machine learning scripts for practice. 
