@@ -1,4 +1,4 @@
-# Helpful Functions to Know for Coding Interviews
+# Helpful Scripts to Know for Coding Interviews
 These functions do not require any built in libraries like sklearn. 
 
 **KMeans:** A KMeans implementation for unsupervised clustering. 
