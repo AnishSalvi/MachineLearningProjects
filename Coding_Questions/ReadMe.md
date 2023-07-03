@@ -16,3 +16,6 @@ These functions do not require any built in libraries like sklearn.
 **SVM:** A support vector machine implementation for binary classification. 
 
 **Naive_Bayes:** Naive Bayes implementation for binary classification. 
+
+**Helpful Links**
+https://github.com/andrewekhalel/MLQuestions
