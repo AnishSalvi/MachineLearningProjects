@@ -1,5 +1,5 @@
 # Machine Learning for Abdominal Aortic Aneurysm Characterization from Standard-Of-Care Computed Tomography Angiography Images
-The subprojects associated with the MS Thesis. 
+The subprojects associated with the MS Thesis. AAA DICOM and AAA Wall are two datasets that were used for model development.
 
 ## AAA DICOM
 **1. AAA-UNet:** Baseline Aneurysm Segmentation
