@@ -11,3 +11,4 @@ This library contains various scripts useful for running machine learning projec
 **Coding_Questions:** A folder of various quick and simple machine learning scripts for practice. 
 
 ## Peripheral Artery Disease Classification from Computed Tomography Angiography Images via 3D Medical Image Vision Transformers with Explainability
+**PAD_ViT:** Repository of a medical image classification project for ImageRx. 
