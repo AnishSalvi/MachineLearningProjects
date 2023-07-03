@@ -51,7 +51,7 @@ class ImageGeneratorMT(torch.utils.data.Dataset):
 
 #main
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description = 'Radformation Assignment')
+    parser = argparse.ArgumentParser(description = 'Assignment')
     parser.add_argument('--fpath', type = str, default = 'images/', required = False)
     parser.add_argument('--num_iter', type = int, default = 3, required = False)
     parser.add_argument('--batch_size', type = int, default = 25, required = False) #number of samples to draw from
