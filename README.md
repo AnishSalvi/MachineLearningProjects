@@ -1,5 +1,5 @@
 # Machine Learning Projects
-This library contains various scripts useful for running machine learning projects, including performing hyperparameter optimization and k-fold cross validation while storing results with WandB. Some work is currently under development. 
+This library contains various scripts useful for running machine learning projects, including performing hyperparameter optimization and k-fold cross validation while storing results with WandB. Some work is currently under development.
 
 **Author's Note:** Some projects associated with the Master's Thesis are published on Google Scholar. https://scholar.google.com/citations?user=SJCymuoAAAAJ&hl=en
 
@@ -28,6 +28,9 @@ This library contains various scripts useful for running machine learning projec
 
 ## Self-Supervised Medical Image Classification of Radiographs via Convolutional Neural Network Inpainting and Class Balanced Loss Functions
 **Self_Supervised_Learning:** An example of self-supervised learning in action. 
+
+## Visual Question Answering of Colonoscopy Medical Images
+**MEDVQA:** Currently under development. 
 
 ## Machine Learning & Image Processing Coding Interview Prompts
 **Coding_Questions:** A folder of various quick and simple machine learning scripts for practice. 
