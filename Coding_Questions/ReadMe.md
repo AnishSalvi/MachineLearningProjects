@@ -17,6 +17,8 @@ These functions do not require any built in libraries like sklearn.
 
 **Naive_Bayes:** Naive Bayes implementation for binary classification. 
 
+**Rand_Dataset:** A random dataset for batch loading which has working argparse commands. 
+
 **Helpful Links:**
 
 1. https://github.com/andrewekhalel/MLQuestions
