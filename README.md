@@ -3,6 +3,8 @@ This library contains various scripts useful for running machine learning projec
 
 **Author's Note:** The projects associated with the Master's Thesis are published on Google Scholar. https://scholar.google.com/citations?user=SJCymuoAAAAJ&hl=en
 
+**Author Profile:** https://www.linkedin.com/in/anish-s-36179a97/
+
 ## Sweep Template for K-Fold Cross Validation & Hyperparameter Optimization with WandB
 **KCV_HP_Template:** A template script which can perform k-fold cross validation & hyperparameter optimization
 
