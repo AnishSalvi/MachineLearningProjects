@@ -10,6 +10,7 @@ This library contains various scripts useful for running machine learning projec
 
 ## MS Thesis: Machine Learning for Abdominal Aortic Aneurysm Characterization from Standard-Of-Care Computed Tomography Angiography Images
 **Masters_Thesis:** Notebooks associated with the completion of the Master's Thesis
+
 **1. AAA-UNet:** Baseline Aneurysm Segmentation
 
 **2. BB-AAA-UNet:** Memory Efficient High-Resolution Segmentation with Prior Aneurysm Localization
