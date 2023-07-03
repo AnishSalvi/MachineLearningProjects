@@ -8,6 +8,9 @@ This library contains various scripts useful for running machine learning projec
 ## Sweep Template for K-Fold Cross Validation & Hyperparameter Optimization with WandB
 **KCV_HP_Template:** A template script which can perform k-fold cross validation & hyperparameter optimization
 
+## MS Thesis: Machine Learning for Abdominal Aortic Aneurysm Characterization from Standard-Of-Care Computed Tomography Angiography Images
+**Masters_Thesis:** Notebooks associated with the completion of the Master's Thesis. 
+
 ## Self-Supervised Medical Image Classification of Radiographs via Convolutional Neural Network Inpainting and Class Balanced Loss Functions
 **Self_Supervised_Learning:** An example of self-supervised learning in action. 
 
