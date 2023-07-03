@@ -17,5 +17,5 @@ These functions do not require any built in libraries like sklearn.
 
 **Naive_Bayes:** Naive Bayes implementation for binary classification. 
 
-**Helpful Links**
+**Helpful Links:**
 https://github.com/andrewekhalel/MLQuestions
