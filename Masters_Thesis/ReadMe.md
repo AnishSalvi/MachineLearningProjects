@@ -2,7 +2,7 @@
 The subprojects associated with the MS Thesis. 
 
 ## AAA DICOM
-**1. AAA-UNet: Baseline Aneurysm Segmentation**
+**1. AAA-UNet:** Baseline Aneurysm Segmentation
 
 **2. BB-AAA-UNet: Memory Efficient High-Resolution Segmentation with Prior Aneurysm 
 Localization**
@@ -10,7 +10,7 @@ Localization**
 ## AAA Wall
 **1. BB-AAA-UNet: As Applied to Aneurysm Wall Segmentation**
 
-**2. Patch Segmentation UNet: Prediction of Aneurysm Wall by Medical Image Subvolumes**
+**2. Patch Segmentation UNet: Prediction of Aneurysm Wall by Medical Image Sub-volumes**
 
 **3. AAA Image Transformers: Classifying Medical Images by Aneurysm Severity with 
 Latent Representations**
