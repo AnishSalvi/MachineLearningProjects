@@ -30,7 +30,7 @@ This library contains various scripts useful for running machine learning projec
 **Self_Supervised_Learning:** An example of self-supervised learning in action. 
 
 ## Visual Question Answering of Colonoscopy Medical Images
-**MEDVQA:** Currently under development. 
+**MEDVQA:** A vision language model. 
 
 ## Utilizing RetinaNet for Automatic Face Mask Detection and Real-Time Camera Performance
 **RetinaNet:** An automatic face mask detector which uses bounding boxes. The script is the one stop shop for data curation, model development, statistical benchmarking, and deployment on a local computer. 
