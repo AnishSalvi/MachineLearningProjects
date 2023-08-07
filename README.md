@@ -26,6 +26,9 @@ This library contains various scripts useful for running machine learning projec
 ## Peripheral Artery Disease Classification from Computed Tomography Angiography Images via 3D Medical Image Vision Transformers with Explainability
 **PAD_ViT:** Repository of a medical image classification project for ImageRx. 
 
+## Any Segmentation Model: The 3D Foundational Segmentation Model to Revolutionize Medical Image Annotation
+**ASM**: An example use case of applying the 3D Foundational Model to segment volumetric data. This model was outfitted with a text encoder. Based on: https://github.com/facebookresearch/segment-anything
+
 ## Self-Supervised Medical Image Classification of Radiographs via Convolutional Neural Network Inpainting and Class Balanced Loss Functions
 **Self_Supervised_Learning:** An example of self-supervised learning in action. 
 
