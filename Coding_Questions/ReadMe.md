@@ -1,7 +1,9 @@
 # Helpful Scripts to Know for Coding Interviews
-These functions do not require any built in libraries like sklearn. 
+Some of these functions do not require any built in libraries like sklearn. 
 
 **KMeans:** A KMeans implementation for unsupervised clustering. 
+
+**Landmark_Registration:** An implementation of image transformation via least squares and gradient descent. 
 
 **KNN:** A K Nearest Neighbor implementation for supervised learning classification. 
 
